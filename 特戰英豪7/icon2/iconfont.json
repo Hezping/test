@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2744383",
+      "name": "主机",
+      "font_class": "zhuji",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "7667815",
+      "name": "主机",
+      "font_class": "zhuji1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7719593",
+      "name": "仪表盘",
+      "font_class": "yibiaopan",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "8961838",
+      "name": "仪表盘",
+      "font_class": "yibiaopan1",
+      "unicode": "e51d",
+      "unicode_decimal": 58653
+    },
+    {
+      "icon_id": "13247813",
+      "name": "仪表盘",
+      "font_class": "yibiaopan2",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    }
+  ]
+}
