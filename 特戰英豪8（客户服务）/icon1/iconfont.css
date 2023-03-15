@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1600051035085'); /* IE9 */
+  src: url('iconfont.eot?t=1600051035085#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQoAAsAAAAACKwAAAPZAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqEZINaATYCJAMQCwoABCAFhG0HSxtPB1GULkqK7IckiaBMphRmSBWxjFCIEFgA4EAIUARAPPTt93pnd/7PhtCFC6RQATpWrUWyFTaqkaJ0fB2gR9Jvay3zgPaFyfgSK0KFCg+ye/sH2cnlaXydrjAVBoUs6w7pVcvJeg40kxPQUeW7gyrwfy6nN59n4fx2luMYW+emo6NegNEECmzsQT0PpIAS5JbDjVfh0bWawJAFUyrH9k8voC2RToG47WwA7ZRJ1rBC0/ZLRqZY19DKWnmGB/7346ud0aboVaTnmat7MWx+kPj+VMu6MtcuQjyeA+I4KnYASVwvdV1UC0M71Azpv6nbCzRN4YPER6HvT12HJHtRNfqXRxEq0UcyR8BubKhOTGxTFD4KUQTfn0wqwrN9wxAeAc+BnLlBkXKoPgeeyiYA2SEsvNAYEh1WnJfFynlQnrmLE6kJ6pCZuvB6PnktiPfwP6svGs/Kz+pOy6Ie29KT0puK07yPvhgaM5mZSfFYEl+Ock1Inan18JdF0spmG+fhBnMzoYyNAyHS4KE2c/tYlDx0FNQ1Q2M0zPGQsXk6nbu722E3Yry8vWa5C8MaunClm5uJ8RJR4klFeWg5FDYqR9MYXVyEsm56eGsvEU1lmVj3zuorL/yzvzvsLZVpFSdwNM5GR719X7tm61svNhLu4yQszN6EA9GnWV6nIDzhT3JcPH2rYn9BT++d0G0wvxMnXihipeGVAz9AyBJm48XNjnUKJNwPmyUmuyA7k/PNt4dPDdU+EwYJn9X8OvjPTA5oCDmYg/AiU1WwjbRQtoGqKUuCiePzFMjRBAVAE369/wtavK5PvLu4Gvh/FOQjefCrX/CJqJvxs7zPIiUP5GiSyNOUWOiNkx1jJL8NnWg2QzmAtjiPtK1L5Y/udXlfhX54K7829p9D4b7/jX7FRe+rfgT6tG491XsAf03cWvx7xS1z0pASc6Yms0WmOx1PJCgYolZ+aowpn2NoZltnEprZGIoB81A1G9Akd0DPsN3Q1xyEIdsdjB82TdREDmKbB4Aw4RGKMU+gmvCOJvkBPXP+oW8iajDkbEzPOGxTuO5RoUApxnCCLuLCMKt2g+wzsoMskKTU51yRlM6L8zNz2egBFSRj9CmHdkHVoBHOcR/Woyxj9MJ9inQmUfUbs7Om7EkzEefQdZQgAUViKDSBnAgrGLew6uY+f4ZYA5mA1DDqwleIKLna0bwZcy3QA1XRinEt55SGrAVKGcgQLIf2wUEyGmLIlzfrIxE1I+kR8DbM4nymrWpmfk3+hKtgCJkho0SNjJ7xS0lQ2AnbC2ZseXG54RMuqHXOFTGPSgAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1600051035085') format('woff'),
+  url('iconfont.ttf?t=1600051035085') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1600051035085#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-changyonglogo35:before {
+  content: "\e71c";
+}
+
+.icon-phone:before {
+  content: "\e622";
+}
+
+.icon-Windows:before {
+  content: "\edd4";
+}
+
