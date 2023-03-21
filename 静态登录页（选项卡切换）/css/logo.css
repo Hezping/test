@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.loading{
+    width: 300px;
+    height: 300px;
+    margin-left: 771px;
+    margin-top: 200px;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/house_bg.jpg);
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+.ban{
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background: rgba(0, 0, 0, .5);
+    position: absolute;
+}
+.close{
+    font-size: 80px;
+    color: #ffffff;
+    float: right;
+    margin: 40px 50px 0 0;
+    cursor: pointer;
+}
+#tab{
+	width: 500px;
+	padding: 15px;
+	background: #ffffff;
+	text-align: center;
+	margin: 100px 0 0 688px;
+}
+#tab ul{
+	list-style: none;
+	height: 50px;
+	line-height: 30px;
+	/* border-bottom: 2px solid lightseagreen; */
+	margin-bottom: 50px;
+}
+#tab ul li{
+	cursor: pointer;
+	float: left;
+	height: 100%;
+	line-height: 30px;
+	border-bottom: 2px solid lightseagreen;
+	padding: 0px 50px;
+	margin: 0px 33px;
+	line-height: 50px;
+	color: #333333;
+}
+#tab ul li.on{
+	background-color: #20B2AA;
+	border-bottom:none;
+	color: #FFFFFF;
+}
+#tab div{
+	height: 300px;
+	width: 95%;
+	border: 0px solid red;
+	padding: 10px;
+}
+.hide{
+	display: none;
+}
+/* .iform{
+    width: 100%;
+    padding: 15px;
+    background: #999999;
+    text-align: center;
+} */
+
+
+.iform p{
+    border: 0px solid blue;
+    height: 50px;
+    margin-bottom: 20px;
+}
+.use,.pwd{
+    width: 95%;
+    height: 35px;
+    padding-left: 15px;
+    border: 0;
+    border-bottom: 1px solid #666666;
+    outline: none;
+}
+.btn1{
+	font-size: 16px;
+    width: 80px;
+    height: 30px;
+    background: brown;
+    color: #ffffff;
+    border: 0;
+    outline: none;
+    display: block;
+    position: relative;
+    top: 10px;
+    left: 155px;
+	font-size: 16px;
+	line-height: 30px;
+}
+.btn{
+	font-size: 16px;
+    width: 80px;
+    height: 30px;
+    background: brown;
+    color: #ffffff;
+    border: 0;
+    outline: none;
+    position: relative;
+    top: -20px;
+    left: 80px;
+	line-height: 30px;
+}
+
+.txt1{
+    color: #666666;
+}
+.txt2{
+    display: block;
+    color: #666666;
+    font-size: 12px;
+    display: none;
+}
